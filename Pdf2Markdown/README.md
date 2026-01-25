@@ -76,6 +76,13 @@ uv run main.py document.pdf output.md --split-chapters --clean
 - Image extraction requires an output file path (not available when using stdout)
 - Small images (< 100×100px) are automatically filtered out
 
+## Web Interface
+This project includes a web application for easy browser-based conversion.
+
+- **Location:** `webapp/`
+- **Documentation:** See [webapp/README-WEBAPP.md](webapp/README-WEBAPP.md) for full deployment and usage instructions.
+- **Live Demo:** https://architools.drawingtable.net/pdf2markdown/
+
 ## Maintenance
 - **Dependencies:** Managed in `pyproject.toml`. Update with `uv add`
 - **Entry Point:** `main.py`

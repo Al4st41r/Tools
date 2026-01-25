@@ -14,3 +14,9 @@ wheels/
 
 # Backups
 backups/
+
+# Webapp runtime
+webapp/logs/
+webapp/uploads/
+webapp/outputs/
+*.pdf

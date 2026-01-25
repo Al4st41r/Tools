@@ -56,6 +56,14 @@ uv run main.py document.pdf output.md --clean
 uv run main.py document.pdf output.md --extract-images --clean
 ```
 
+## Web Application
+The project includes a web interface in `webapp/`.
+
+- **Live URL:** https://architools.drawingtable.net/pdf2markdown/
+- **Documentation:** `webapp/README-WEBAPP.md`
+- **Stack:** Flask, Nginx, Systemd
+- **Service:** `pdf2markdown`
+
 ## Maintenance
 - **Dependencies:** Managed in `pyproject.toml`. Update with `uv add`
 - **Entry Point:** `main.py`
