@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDF to Markdown Converter | Architools</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/ao-styles.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/app.css') }}">
+</head>
+<body>
+    <!-- Navigation Header -->
+    <nav class="nav-header">
+        <div class="nav-header-container">
+            <h1><a href="/pdf2markdown/">PDF to Markdown Converter</a></h1>
+            <div class="hamburger" onclick="toggleMenu()">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            <div class="nav-header-nav" id="navMenu">
+                <a href="/pdf2markdown/">Converter</a>
+                <span class="nav-separator">|</span>
+                <a href="https://architools.drawingtable.net">Architools Home</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <div class="page-container">
+        <div class="container">
+            <!-- Page Header -->
+            <div class="hero-intro">
+                <p class="subheading">CONVERT PDF FILES TO MARKDOWN FORMAT</p>
+                <p class="lead">Upload your PDF document and convert it to clean Markdown format. Optionally extract embedded images with automatic filtering of small graphics. Fast, simple, and free.</p>
+            </div>
+
+        <!-- Feature Grid -->
+        <div class="feature-grid">
+            <div class="feature-card">
+                <h3>Extract Text</h3>
+                <p>Convert PDF documents to clean, readable Markdown format. Perfect for documentation and content management.</p>
+            </div>
+            <div class="feature-card">
+                <h3>Extract Images</h3>
+                <p>Optionally extract images from your PDFs. Automatically filters out small logos and icons (< 100×100px).</p>
+            </div>
+            <div class="feature-card">
+                <h3>Instant Download</h3>
+                <p>Get your Markdown file immediately. With image extraction, receive a convenient ZIP archive.</p>
+            </div>
+        </div>
+
+        <!-- Upload Section -->
+        <section id="uploadSection">
+            <h2>Upload PDF File</h2>
+            <div class="card">
+                <div class="upload-zone" id="uploadZone">
+                    <h3>Drop PDF file here or click to browse</h3>
+                    <p>Maximum file size: 500MB</p>
+                    <input type="file" id="fileInput" accept=".pdf" hidden>
+                </div>
+            </div>
+        </section>
+
+        <!-- File Info Section -->
+        <section id="fileInfoSection" style="display: none;">
+            <h2>File Ready</h2>
+            <div class="file-info">
+                <div class="file-info-content">
+                    <div class="file-details">
+                        <h4 id="fileName">document.pdf</h4>
+                        <p id="fileSize">0 MB</p>
+                    </div>
+                </div>
+                <span class="file-remove" onclick="removeFile()" title="Remove file">×</span>
+            </div>
+
+            <!-- Image Extraction Option -->
+            <div class="extraction-option">
+                <div class="checkbox-container">
+                    <input type="checkbox" id="extractImagesCheckbox">
+                    <label for="extractImagesCheckbox">Extract images from PDF</label>
+                </div>
+                <p class="checkbox-description">Extracts embedded images and packages them with the Markdown file in a ZIP archive. Small images (< 100×100px) are automatically filtered out.</p>
+            </div>
+
+            <!-- Split Chapters Option -->
+            <div class="extraction-option">
+                <div class="checkbox-container">
+                    <input type="checkbox" id="splitChaptersCheckbox">
+                    <label for="splitChaptersCheckbox">Split chapters into separate files</label>
+                </div>
+                <p class="checkbox-description">Splits the output into separate Markdown files based on H1 headers. Images are placed at the end of each chapter with source page references.</p>
+            </div>
+
+            <!-- Clean Text Option -->
+            <div class="extraction-option">
+                <div class="checkbox-container">
+                    <input type="checkbox" id="cleanTextCheckbox" checked>
+                    <label for="cleanTextCheckbox">Clean Text (Fix broken sentences)</label>
+                </div>
+                <p class="checkbox-description">Fixes broken sentences and removes extra whitespace caused by PDF line breaks. Recommended for best readability.</p>
+            </div>
+
+            <button class="btn btn-primary btn-block" id="processBtn">Convert to Markdown</button>
+        </section>
+
+        <!-- Progress Section -->
+        <section id="progressSection" style="display: none;">
+            <h2>Processing</h2>
+            <div class="progress-container">
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progressFill">0%</div>
+                </div>
+                <p class="progress-status" id="progressStatus">Initialising...</p>
+            </div>
+        </section>
+
+        <!-- Result Section -->
+        <section id="resultSection" style="display: none;">
+            <div class="result-container">
+                <div class="result-header">
+                    <h3>✓ Conversion Complete</h3>
+                </div>
+                <div class="result-details">
+                    <p><strong>File:</strong> <span id="resultFileName">document.pdf</span></p>
+                    <p><strong>Processing Time:</strong> <span id="resultTime">0.00</span> seconds</p>
+                    <p id="resultType">Your Markdown file is ready for download.</p>
+                </div>
+                <button class="btn btn-success btn-block" id="downloadBtn">Download Markdown File</button>
+                <button class="btn btn-secondary btn-block" onclick="resetUpload()">Convert Another File</button>
+            </div>
+        </section>
+
+        <!-- Error Section -->
+        <section id="errorSection" style="display: none;">
+            <div class="error-container">
+                <div class="error-header">
+                    <h3>✗ Error</h3>
+                </div>
+                <div class="error-details" id="errorMessage">
+                    An error occurred during processing.
+                </div>
+                <button class="btn btn-secondary btn-block" onclick="resetUpload()">Try Again</button>
+            </div>
+        </section>
+
+        <!-- Information Section -->
+        <section style="margin-top: 48px;">
+            <h2>About Markdown Output</h2>
+            <div class="grid-2">
+                <div class="card">
+                    <h2>What is Markdown?</h2>
+                    <p>Markdown is a lightweight markup language that's easy to read and write. It's widely used for:</p>
+                    <ul>
+                        <li>Documentation and README files</li>
+                        <li>Content management systems</li>
+                        <li>Note-taking applications</li>
+                        <li>Static site generators</li>
+                        <li>Technical writing</li>
+                    </ul>
+                </div>
+
+                <div class="card">
+                    <h2>Output Details</h2>
+                    <p>The converter extracts text from your PDF and formats it as clean Markdown:</p>
+                    <ul>
+                        <li><strong>Text Extraction:</strong> Plain text with basic formatting</li>
+                        <li><strong>Image Extraction:</strong> Optional embedded images</li>
+                        <li><strong>Image Filtering:</strong> Removes small images (< 100×100px)</li>
+                        <li><strong>Original Formats:</strong> Images preserved as PNG, JPEG, etc.</li>
+                        <li><strong>ZIP Archive:</strong> Convenient packaging when images are extracted</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="card" style="margin-top: 24px;">
+                <div class="info-box">
+                    <p><strong>Note:</strong> This tool is designed for text extraction from PDFs. Complex layouts, tables, and formatting may not be perfectly preserved. For best results, use PDFs that are primarily text-based rather than scanned images.</p>
+                </div>
+            </div>
+        </section>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>PDF to Markdown Converter - Free tool for document conversion.</p>
+            <p>Part of the Architools suite.</p>
+        </div>
+    </footer>
+
+    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>

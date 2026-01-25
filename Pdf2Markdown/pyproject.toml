@@ -1,0 +1,12 @@
+[project]
+name = "pdf2markdown"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "flask>=3.1.2",
+    "markitdown[all]>=0.1.4",
+    "pymupdf>=1.26.7",
+    "werkzeug>=3.1.4",
+]
