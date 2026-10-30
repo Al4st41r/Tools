@@ -1,0 +1,8 @@
+[project]
+name = "site-layer-snapshot"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "pillow>=13.0.0",
+    "playwright==1.49.1",
+]
