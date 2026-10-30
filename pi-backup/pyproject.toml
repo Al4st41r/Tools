@@ -1,0 +1,20 @@
+[project]
+name = "pi-backup"
+version = "0.1.0"
+description = "Raspberry Pi restoration manifest generator and dotfile archiver."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.scripts]
+pi-backup = "main:main"
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0.0",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["test"]
+
