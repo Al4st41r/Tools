@@ -1,0 +1,106 @@
+Project Name,Description,Open Issues,Tests,Service,Visibility,URL,Locations,Size,Git,Owner,Remote URL
+.git,,,,N/A,N/A,N/A,/home/pi/WebApps/Tools/.git,34M,No,N/A,None
+02_LONGEVITY,,,,N/A,Unlisted,https://architools.drawingtable.net/02_LONGEVITY/,/var/www/html/02_LONGEVITY,181M,No,N/A,None
+Amazon,,,,N/A,Hidden,N/A,/home/pi/WebApps/Amazon,16K,No,N/A,None
+AOwiki,"AoWiki is a lightweight, LLM-powered knowledge base interface built for Raspberry Pi using **Bun**, ...",,Dir: `tests/`,aowiki.service,Service,N/A,/home/pi/WebApps/AOwiki,683M,No,N/A,None
+AOwiki,,,,N/A,Unlisted,https://architools.drawingtable.net/AOwiki/,/var/www/html/AOwiki,612K,No,N/A,None
+AoWiki,,,,N/A,Unlisted,https://architools.drawingtable.net/AoWiki/,/var/www/html/AoWiki,13M,No,N/A,None
+Archicad,,,,N/A,N/A,N/A,/home/pi/WebApps/Archicad,12K,No,N/A,None
+assemblyhub,,,,N/A,N/A,N/A,/home/pi/WebApps/assemblyhub,4.1M,No,N/A,None
+backups,,,,N/A,N/A,N/A,/home/pi/WebApps/backups,180M,No,N/A,None
+backups,,,,N/A,N/A,N/A,/home/pi/WebApps/Tools/backups,4.0K,No,N/A,None
+Biogenic,"Building carbon storage ledger. Supabase backend (Postgres, auth, storage), static React front end s...",0,,N/A,N/A,N/A,/home/pi/WebApps/Biogenic,193M,Yes,Personal,git@github.com-personal:Al4st41r/biogenic.git
+biogenic-ledger-styled,,,,N/A,Unlisted,https://architools.drawingtable.net/biogenic-ledger-styled/,/var/www/html/biogenic-ledger-styled,124K,No,N/A,None
+biogenic-mirror,,,,N/A,Unlisted,https://architools.drawingtable.net/biogenic-mirror/,/var/www/html/biogenic-mirror,17M,No,N/A,None
+BioGenicWorld,,,,biogenic-notes.service,Service,N/A,/home/pi/WebApps/BioGenicWorld,66M,Yes,N/A,None
+BioGenicWorld,"Experimental static frontend prototype exploring user experience and interface models for tracking, ...",,,N/A,Unlisted,https://architools.drawingtable.net/BioGenicWorld/,"/var/www/html/BioGenicWorld, /var/www/html/biogenic",776K,No,N/A,None
+btc,,,,N/A,Unlisted,https://architools.drawingtable.net/btc/,/var/www/html/btc,1.2M,No,N/A,None
+BTCchart,,,,N/A,Unlisted,https://architools.drawingtable.net/BTCchart/,"/home/pi/WebApps/BTCchart, /var/www/html/BTCchart",264K,No,N/A,None
+CadTests,,,,N/A,N/A,N/A,/home/pi/WebApps/CadTests,156K,No,N/A,None
+CarbonBench,"Whole life carbon assessment tool for Waugh Thistleton Architects, aligned to RICS 2023 Whole Life C...",,"`bun test tests/calculations.test.js`, Dir: `tests/`",carbonbench.service,Service,https://architools.drawingtable.net/carbonbench/,/home/pi/WebApps/CarbonBench,175M,Yes,WTA (Work),git@github.com-wta:Waugh-Thistleton-Architects/CarbonBench.git
+christmas-card-crm,A collaborative contact management system for managing office Christmas card distribution.,,Dir: `tests/`,N/A,N/A,https://architools.drawingtable.net/xmasbook/,/home/pi/WebApps/christmas-card-crm,323M,Yes,N/A,None
+crcf,This prototype implements the **EU Carbon Removal Certification Framework (CRCF)** methodology for l...,0,Dir: `tests/`,N/A,N/A,N/A,/home/pi/WebApps/crcf,12M,Yes,WTA (Work),git@github.com-wta:alastairWTA/UWW-Crcf.git
+detailsketcher,,,,N/A,Hidden,https://architools.drawingtable.net/detailsketcher/,/var/www/html/detailsketcher,784K,No,N/A,None
+dev,,,,N/A,Unlisted,N/A,/home/pi/WebApps/dev,187M,No,N/A,None
+dev,,,,N/A,Unlisted,https://architools.drawingtable.net/dev/,/var/www/html/dev,2.6M,No,N/A,None
+Drawio2PPTX,"A Python-based tool to convert Draw.io (`.drawio`, `.xml`) diagrams into editable Microsoft PowerPoi...",0,Dir: `tests/`,drawio2pptx.service,Service,N/A,/home/pi/WebApps/Tools/Drawio2PPTX,89M,Yes,Personal,git@github.com-personal:Al4st41r/Drawio2PPTX.git
+ElevationPlanner,,,,N/A,Unlisted,https://architools.drawingtable.net/ElevationPlanner/,/var/www/html/ElevationPlanner,296K,No,N/A,None
+EmbodiedCarbon,A comprehensive suite of web-based calculators for estimating embodied carbon in building constructi...,,,N/A,Hidden,https://architools.drawingtable.net/EmbodiedCarbon/,/var/www/html/EmbodiedCarbon,6.8M,Yes,WTA (Work),git@github.com-wta:Waugh-Thistleton-Architects/EmbodiedCarbon.git
+ep133,"A sampler and sequencer for iPad, iPhone and desktop browsers in the style of the Teenage Engineerin...",0,Dir: `tests/`,N/A,Unlisted,N/A,/home/pi/WebApps/ep133,109M,Yes,Personal,git@github.com-personal:Al4st41r/ep133.git
+ep133,,,,N/A,Unlisted,https://architools.drawingtable.net/ep133/,/var/www/html/ep133,14M,No,N/A,None
+exceltool,This tool is a digital implementation of the Disassembly Potential Calculation Tool (Version 3.0). I...,,,exceltool.service,Service,N/A,/home/pi/WebApps/exceltool,229M,No,N/A,None
+exceltool,,,,N/A,Unlisted,https://architools.drawingtable.net/exceltool/,/var/www/html/exceltool,516K,No,N/A,None
+game-footballrpg,,,,N/A,Visible,https://architools.drawingtable.net/game-footballrpg/,/var/www/html/game-footballrpg,207M,No,N/A,None
+gemailclean,,,,N/A,N/A,N/A,/home/pi/WebApps/gemailclean,4.0K,No,N/A,None
+githubroadmaps,,,,N/A,N/A,N/A,/home/pi/WebApps/Tools/githubroadmaps,4.0K,No,N/A,None
+gmail-cleaner,"A web application for auditing recent Gmail messages, aggregating email counts by sender address, cl...",,Dir: `test/`,gmail-cleaner.service,Service,https://architools.drawingtable.net/gmail-cleaner/,/home/pi/WebApps/gmail-cleaner,155M,Yes,Personal,git@github.com-personal:Al4st41r/gmail-cleaner.git
+html,,,,N/A,N/A,N/A,/home/pi/WebApps/html,1.1G,No,N/A,None
+IFC-Junctions,Reads an IFC file in the browser and lists junctions between elements as **Element type / Element ty...,,`vitest run`,N/A,Unlisted,N/A,/home/pi/WebApps/IFC-Junctions,178M,Yes,WTA (Work),git@github.com-wta:alastairWTA/IFC-Junctions.git
+IFC-Junctions,,,,N/A,Unlisted,https://architools.drawingtable.net/IFC-Junctions/,/var/www/html/IFC-Junctions,5.3M,No,N/A,None
+ifc-viewer,,,,N/A,Unlisted,https://architools.drawingtable.net/ifc-viewer/,/var/www/html/ifc-viewer,4.0K,No,N/A,None
+ifc-viewer-prototype,,,,N/A,Unlisted,https://architools.drawingtable.net/ifc-viewer-prototype/,/var/www/html/ifc-viewer-prototype,67M,No,N/A,None
+ifc2Cobie,,,,N/A,N/A,https://architools.drawingtable.net/ifc2Cobie/,/home/pi/WebApps/ifc2Cobie,441M,No,N/A,None
+ifcapp,A 3D building model viewer built with ThatOpen Components (formerly IFC.js).,,,N/A,Unlisted,N/A,/home/pi/WebApps/ifcapp,164M,No,N/A,None
+ifcapp,,,,N/A,Unlisted,https://architools.drawingtable.net/ifcapp/,/var/www/html/ifcapp,5.3M,No,N/A,None
+ifctest,,,,N/A,Unlisted,N/A,/home/pi/WebApps/ifctest,138M,No,N/A,None
+ifctest,,,,N/A,Unlisted,https://architools.drawingtable.net/ifctest/,/var/www/html/ifctest,5.3M,No,N/A,None
+insights,,,,insights.service,Service,N/A,/home/pi/WebApps/insights,6.9M,Yes,N/A,None
+insights,,,,N/A,Unlisted,https://architools.drawingtable.net/insights/,/var/www/html/insights,200K,No,N/A,None
+inspector_test,,,,N/A,Unlisted,https://architools.drawingtable.net/inspector_test/,/var/www/html/inspector_test,4.0K,No,N/A,None
+inventory,,,,N/A,Unlisted,https://architools.drawingtable.net/inventory/,"/home/pi/WebApps/inventory, /var/www/html/inventory",1.1M,No,N/A,None
+jobrunner,,,,N/A,Hidden,https://architools.drawingtable.net/jobrunner/,/var/www/html/jobrunner,32K,No,N/A,None
+LocationValidator,'m',,,N/A,Unlisted,N/A,/home/pi/WebApps/LocationValidator,214M,Yes,WTA (Work),git@github.com-wta:Waugh-Thistleton-Architects/LocationValidator.git
+LocationValidator,,,,N/A,Unlisted,https://architools.drawingtable.net/LocationValidator/,/var/www/html/LocationValidator,7.7M,No,N/A,None
+makaton,"An interactive, responsive web application for translating everyday words and phrases (such as ""feel...",0,,N/A,Unlisted,https://architools.drawingtable.net/makaton/,"/home/pi/WebApps/makaton, /var/www/html/makaton",2.9M,Yes,Personal,git@github.com-personal:Al4st41r/makaton.git
+MaterialCatalogue,,,,N/A,Unlisted,https://architools.drawingtable.net/MaterialCatalogue/,"/home/pi/WebApps/MaterialCatalogue, /var/www/html/MaterialCatalogue",77M,No,N/A,None
+MaterialCatalogueCombined,**URL:** https://architools.drawingtable.net/MaterialCatalogueCombined/,,,N/A,Unlisted,https://architools.drawingtable.net/MaterialCatalogueCombined/,"/home/pi/WebApps/MaterialCatalogueCombined, /var/www/html/MaterialCatalogueCombined",5.8M,No,N/A,None
+MaterialCatalogueHL,,,,N/A,Unlisted,https://architools.drawingtable.net/MaterialCatalogueHL/,"/home/pi/WebApps/MaterialCatalogueHL, /var/www/html/MaterialCatalogueHL",128M,No,N/A,None
+mgkform,,,,mgkform.service,Service,N/A,/home/pi/WebApps/mgkform,182M,Yes,N/A,None
+NinSteam,,,,ninsteam.service,Service,https://architools.drawingtable.net/ninsteam/,/home/pi/WebApps/NinSteam,26M,Yes,N/A,None
+oebf,,,,N/A,Unlisted,https://architools.drawingtable.net/oebf/,/var/www/html/oebf,64K,No,N/A,None
+OpenEditableBimFormat,"An open, plain-text BIM bundle format designed for direct editing by LLMs and agentic coding tools.",8,Dir: `spec/`,N/A,N/A,N/A,/home/pi/WebApps/OpenEditableBimFormat,610M,Yes,Personal,git@github.com-personal:Al4st41r/OpenEditableBimFormat.git
+OpenPencilCad,"Open-source design editor. Opens `.fig` and `.pen` design files, includes built-in AI, and ships as ...",156,"`playwright test --project=openpencil`, Dir: `tests/`",N/A,Unlisted,N/A,/home/pi/WebApps/OpenPencilCad,1.1G,Yes,Other,https://github.com/open-pencil/open-pencil.git
+OpenPencilCad,,,,N/A,Unlisted,https://architools.drawingtable.net/OpenPencilCad/,/var/www/html/OpenPencilCad,25M,No,N/A,None
+pass-secret-service,,,,N/A,N/A,N/A,/home/pi/WebApps/pass-secret-service,21M,Yes,N/A,None
+Pdf2Markdown,"Pdf2Markdown is a utility to convert various file formats (PDF, DOCX, XLSX, PPTX, HTML, etc.) into M...",,Dir: `test/`,N/A,N/A,N/A,/home/pi/WebApps/Tools/Pdf2Markdown,410M,No,N/A,None
+plans,,,,N/A,Unlisted,https://architools.drawingtable.net/plans/,/var/www/html/plans,92K,No,N/A,None
+pricetracker,A Flask web application that monitors product prices from online stores and alerts users when prices...,11,Dir: `tests/`,pricetracker.service,Visible,https://architools.drawingtable.net/pricetracker/,/home/pi/WebApps/pricetracker,296M,Yes,Personal,git@github.com-personal:Al4st41r/pricetracker.git
+pricetracker,,,,N/A,Visible,https://architools.drawingtable.net/pricetracker/,/var/www/html/pricetracker,4.0K,No,N/A,None
+Punctuation,"A punctuation game for adults, teaching British-English punctuation the Guardian/Observer style guid...",,,N/A,Unlisted,https://architools.drawingtable.net/punctuation/,"/home/pi/WebApps/Punctuation, /var/www/html/punctuation",684K,No,N/A,None
+rhythm-master,A web-based ear training application for developing rhythmic perception and drum pattern recognition...,1,Dir: `tests/`,N/A,Visible,https://architools.drawingtable.net/rhythm-master/,"/home/pi/WebApps/rhythm-master, /var/www/html/rhythm-master",1.2M,Yes,Personal,git@github.com-personal:Al4st41r/rhythm-master.git
+roastmaster,"A smart cooking companion designed to help you plan, time, and cook the perfect Sunday Roast. RoastM...",0,,N/A,N/A,N/A,/home/pi/WebApps/roastmaster,140M,Yes,Personal,git@github.com-personal:Al4st41r/RoastMaster.git
+RoastMaster,,,,N/A,Visible,https://architools.drawingtable.net/RoastMaster/,/var/www/html/RoastMaster,268K,No,N/A,None
+rustycad,,,,N/A,N/A,N/A,/home/pi/WebApps/rustycad,492K,Yes,N/A,None
+SimpleCarbon,Inspired by the FCBS carbon tool.,6,"`bun test tests/calculations.test.js`, Dir: `tests/`",simplecarbon.service,Service,https://architools.drawingtable.net/simplecarbon/,/home/pi/WebApps/SimpleCarbon,38M,Yes,Personal,git@github.com-personal:Al4st41r/simplecarbon.git
+SindreKristian,,,,N/A,Unlisted,https://architools.drawingtable.net/SindreKristian/,/var/www/html/SindreKristian,44K,No,N/A,None
+SiteContext,To install dependencies:,,,N/A,N/A,N/A,/home/pi/WebApps/SiteContext,255M,Yes,WTA (Work),git@github.com-wta:alastairWTA/SiteContext.git
+speakit,Speak It is a client-side web application designed for iPad and iPhone (iOS 26 and contemporary WebK...,,,N/A,Unlisted,https://architools.drawingtable.net/speakit/,"/home/pi/WebApps/speakit, /var/www/html/speakit",2.9M,Yes,N/A,None
+SPtest,,,,N/A,N/A,N/A,/home/pi/WebApps/SPtest,20K,No,N/A,None
+Styles,,,,N/A,Hidden,N/A,/home/pi/WebApps/Styles,60K,No,N/A,None
+Styles,,,,N/A,Hidden,https://architools.drawingtable.net/Styles/,/var/www/html/Styles,2.4M,No,N/A,None
+taxcalc,,,,N/A,Visible,https://architools.drawingtable.net/taxcalc/,/var/www/html/taxcalc,88K,No,N/A,None
+tokenomics,,,,N/A,Unlisted,https://architools.drawingtable.net/tokenomics/,/var/www/html/tokenomics,2.3M,No,N/A,None
+Tools,Tools I use to assist me in my workflows. These are not professional level tools and no liability is...,0,,N/A,N/A,N/A,/home/pi/WebApps/Tools,521M,Yes,Personal,git@github.com-personal:Al4st41r/Tools.git
+tools,,,,N/A,Visible,https://architools.drawingtable.net/tools/,/var/www/html/tools,1004K,No,N/A,None
+UKassetprices,,,,N/A,Unlisted,https://architools.drawingtable.net/UKassetprices/,/var/www/html/UKassetprices,116K,No,N/A,None
+UWW,,,,N/A,Visible,N/A,/home/pi/WebApps/UWW,12M,No,N/A,None
+UWW,,,,N/A,Visible,https://architools.drawingtable.net/UWW/,/var/www/html/UWW,237M,No,N/A,None
+UWW-IFC,,,Dir: `tests/`,N/A,N/A,N/A,/home/pi/WebApps/UWW-IFC,296M,Yes,WTA (Work),git@github.com-wta:alastairWTA/UWW-IFC.git
+UWW-Tools,,,,N/A,Unlisted,https://architools.drawingtable.net/UWW-Tools/,/var/www/html/UWW-Tools,277M,No,N/A,None
+viewer1,"This repository demonstrates the **.ifcsvgbundle** file format, which combines IFC, SVG, and JSON to...",,,N/A,Hidden,https://architools.drawingtable.net/viewer1/,/var/www/html/viewer1,1.4M,No,N/A,None
+viewer2,,,,N/A,Hidden,https://architools.drawingtable.net/viewer2/,/var/www/html/viewer2,61M,No,N/A,None
+WC-IFC,,,,N/A,N/A,N/A,/home/pi/WebApps/WC-IFC,167M,No,N/A,None
+WC-IFC-A,Advanced IFC viewer with color-coded filtering based on demountability and structural relationships.,,,N/A,N/A,N/A,/home/pi/WebApps/WC-IFC-A,227M,No,N/A,None
+WC-IFC-B,Advanced IFC viewer with color-coded filtering based on demountability and structural relationships.,,,N/A,N/A,N/A,/home/pi/WebApps/WC-IFC-B,236M,No,N/A,None
+weather-wear,Vibe coded app to tell me what to wear depending on the weather.,0,,N/A,Visible,https://architools.drawingtable.net/weather-wear/,/var/www/html/weather-wear,640K,Yes,Personal,git@github.com-personal:Al4st41r/weather_wear.git
+WebPagePodcasts,A web application that lets you save articles to a reading list and listen to them with section-base...,,,N/A,N/A,N/A,/home/pi/WebApps/WebPagePodcasts,28M,No,N/A,None
+Wiki,,,,elevation-planner-dxf.service,Hidden,N/A,/home/pi/WebApps/Wiki,762M,Yes,WTA (Work),git@github.com-wta:alastairWTA/elevation-planner.git
+Wiki,,,,N/A,Hidden,https://architools.drawingtable.net/Wiki/,/var/www/html/Wiki,63M,No,N/A,None
+woodawards,,,,N/A,N/A,N/A,/home/pi/WebApps/Tools/woodawards,5.4M,No,N/A,None
+workpi,,,,N/A,N/A,N/A,/home/pi/WebApps/workpi,72K,No,N/A,None
+wta-node-studio,"<div align=""center"">",,,wta-node-studio.service,Service,N/A,/home/pi/WebApps/wta-node-studio,142M,No,N/A,None
+WTA_Detail,"<div align=""center"">",,,N/A,N/A,N/A,/home/pi/WebApps/WTA_Detail,608M,Yes,WTA (Work),git@github.com-wta:JohanWijesinghe/WTA_Detail-AI.git
+xmasbook,,,,N/A,N/A,N/A,/home/pi/WebApps/xmasbook,4.0K,No,N/A,None
+Xmaslist25,,,,N/A,N/A,N/A,/home/pi/WebApps/Xmaslist25,117M,No,N/A,None
+xwiki,,,,N/A,Unlisted,N/A,/home/pi/WebApps/xwiki,2.9G,No,N/A,None
+xwiki,,,,N/A,Unlisted,https://architools.drawingtable.net/xwiki/,/var/www/html/xwiki,1020K,No,N/A,None

@@ -1,0 +1,1833 @@
+{
+  "generated_at": "2026-10-28T20:05:12.385305+00:00",
+  "total_projects": 105,
+  "projects": [
+    {
+      "name": ".git",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "N/A",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/Tools/.git"
+      ],
+      "size": "34M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "02_LONGEVITY",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": "https://architools.drawingtable.net/02_LONGEVITY/",
+      "locations": [
+        "/var/www/html/02_LONGEVITY"
+      ],
+      "size": "181M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "Amazon",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Hidden",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/Amazon"
+      ],
+      "size": "16K",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "AOwiki",
+      "description": "AoWiki is a lightweight, LLM-powered knowledge base interface built for Raspberry Pi using **Bun**, ...",
+      "open_issues": null,
+      "tests": "Dir: `tests/`",
+      "service": "aowiki.service",
+      "service_active": true,
+      "visibility": "Service",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/AOwiki"
+      ],
+      "size": "683M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "AOwiki",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": "https://architools.drawingtable.net/AOwiki/",
+      "locations": [
+        "/var/www/html/AOwiki"
+      ],
+      "size": "612K",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "AoWiki",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": "https://architools.drawingtable.net/AoWiki/",
+      "locations": [
+        "/var/www/html/AoWiki"
+      ],
+      "size": "13M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "Archicad",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "N/A",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/Archicad"
+      ],
+      "size": "12K",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "assemblyhub",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "N/A",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/assemblyhub"
+      ],
+      "size": "4.1M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "backups",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "N/A",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/backups"
+      ],
+      "size": "180M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "backups",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "N/A",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/Tools/backups"
+      ],
+      "size": "4.0K",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "Biogenic",
+      "description": "Building carbon storage ledger. Supabase backend (Postgres, auth, storage), static React front end s...",
+      "open_issues": 0,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "N/A",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/Biogenic"
+      ],
+      "size": "193M",
+      "has_git": true,
+      "owner": "Personal",
+      "remote_url": "git@github.com-personal:Al4st41r/biogenic.git"
+    },
+    {
+      "name": "biogenic-ledger-styled",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": "https://architools.drawingtable.net/biogenic-ledger-styled/",
+      "locations": [
+        "/var/www/html/biogenic-ledger-styled"
+      ],
+      "size": "124K",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "biogenic-mirror",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": "https://architools.drawingtable.net/biogenic-mirror/",
+      "locations": [
+        "/var/www/html/biogenic-mirror"
+      ],
+      "size": "17M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "BioGenicWorld",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": "biogenic-notes.service",
+      "service_active": true,
+      "visibility": "Service",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/BioGenicWorld"
+      ],
+      "size": "66M",
+      "has_git": true,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "BioGenicWorld",
+      "description": "Experimental static frontend prototype exploring user experience and interface models for tracking, ...",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": "https://architools.drawingtable.net/BioGenicWorld/",
+      "locations": [
+        "/var/www/html/BioGenicWorld",
+        "/var/www/html/biogenic"
+      ],
+      "size": "776K",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "btc",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": "https://architools.drawingtable.net/btc/",
+      "locations": [
+        "/var/www/html/btc"
+      ],
+      "size": "1.2M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "BTCchart",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": "https://architools.drawingtable.net/BTCchart/",
+      "locations": [
+        "/home/pi/WebApps/BTCchart",
+        "/var/www/html/BTCchart"
+      ],
+      "size": "264K",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "CadTests",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "N/A",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/CadTests"
+      ],
+      "size": "156K",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "CarbonBench",
+      "description": "Whole life carbon assessment tool for Waugh Thistleton Architects, aligned to RICS 2023 Whole Life C...",
+      "open_issues": null,
+      "tests": "`bun test tests/calculations.test.js`, Dir: `tests/`",
+      "service": "carbonbench.service",
+      "service_active": true,
+      "visibility": "Service",
+      "url": "https://architools.drawingtable.net/carbonbench/",
+      "locations": [
+        "/home/pi/WebApps/CarbonBench"
+      ],
+      "size": "175M",
+      "has_git": true,
+      "owner": "WTA (Work)",
+      "remote_url": "git@github.com-wta:Waugh-Thistleton-Architects/CarbonBench.git"
+    },
+    {
+      "name": "christmas-card-crm",
+      "description": "A collaborative contact management system for managing office Christmas card distribution.",
+      "open_issues": null,
+      "tests": "Dir: `tests/`",
+      "service": null,
+      "service_active": false,
+      "visibility": "N/A",
+      "url": "https://architools.drawingtable.net/xmasbook/",
+      "locations": [
+        "/home/pi/WebApps/christmas-card-crm"
+      ],
+      "size": "323M",
+      "has_git": true,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "crcf",
+      "description": "This prototype implements the **EU Carbon Removal Certification Framework (CRCF)** methodology for l...",
+      "open_issues": 0,
+      "tests": "Dir: `tests/`",
+      "service": null,
+      "service_active": false,
+      "visibility": "N/A",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/crcf"
+      ],
+      "size": "12M",
+      "has_git": true,
+      "owner": "WTA (Work)",
+      "remote_url": "git@github.com-wta:alastairWTA/UWW-Crcf.git"
+    },
+    {
+      "name": "detailsketcher",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Hidden",
+      "url": "https://architools.drawingtable.net/detailsketcher/",
+      "locations": [
+        "/var/www/html/detailsketcher"
+      ],
+      "size": "784K",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "dev",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/dev"
+      ],
+      "size": "187M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "dev",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": "https://architools.drawingtable.net/dev/",
+      "locations": [
+        "/var/www/html/dev"
+      ],
+      "size": "2.6M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "Drawio2PPTX",
+      "description": "A Python-based tool to convert Draw.io (`.drawio`, `.xml`) diagrams into editable Microsoft PowerPoi...",
+      "open_issues": 0,
+      "tests": "Dir: `tests/`",
+      "service": "drawio2pptx.service",
+      "service_active": true,
+      "visibility": "Service",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/Tools/Drawio2PPTX"
+      ],
+      "size": "89M",
+      "has_git": true,
+      "owner": "Personal",
+      "remote_url": "git@github.com-personal:Al4st41r/Drawio2PPTX.git"
+    },
+    {
+      "name": "ElevationPlanner",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": "https://architools.drawingtable.net/ElevationPlanner/",
+      "locations": [
+        "/var/www/html/ElevationPlanner"
+      ],
+      "size": "296K",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "EmbodiedCarbon",
+      "description": "A comprehensive suite of web-based calculators for estimating embodied carbon in building constructi...",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Hidden",
+      "url": "https://architools.drawingtable.net/EmbodiedCarbon/",
+      "locations": [
+        "/var/www/html/EmbodiedCarbon"
+      ],
+      "size": "6.8M",
+      "has_git": true,
+      "owner": "WTA (Work)",
+      "remote_url": "git@github.com-wta:Waugh-Thistleton-Architects/EmbodiedCarbon.git"
+    },
+    {
+      "name": "ep133",
+      "description": "A sampler and sequencer for iPad, iPhone and desktop browsers in the style of the Teenage Engineerin...",
+      "open_issues": 0,
+      "tests": "Dir: `tests/`",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/ep133"
+      ],
+      "size": "109M",
+      "has_git": true,
+      "owner": "Personal",
+      "remote_url": "git@github.com-personal:Al4st41r/ep133.git"
+    },
+    {
+      "name": "ep133",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": "https://architools.drawingtable.net/ep133/",
+      "locations": [
+        "/var/www/html/ep133"
+      ],
+      "size": "14M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "exceltool",
+      "description": "This tool is a digital implementation of the Disassembly Potential Calculation Tool (Version 3.0). I...",
+      "open_issues": null,
+      "tests": "",
+      "service": "exceltool.service",
+      "service_active": true,
+      "visibility": "Service",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/exceltool"
+      ],
+      "size": "229M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "exceltool",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": "https://architools.drawingtable.net/exceltool/",
+      "locations": [
+        "/var/www/html/exceltool"
+      ],
+      "size": "516K",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "game-footballrpg",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Visible",
+      "url": "https://architools.drawingtable.net/game-footballrpg/",
+      "locations": [
+        "/var/www/html/game-footballrpg"
+      ],
+      "size": "207M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "gemailclean",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "N/A",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/gemailclean"
+      ],
+      "size": "4.0K",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "githubroadmaps",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "N/A",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/Tools/githubroadmaps"
+      ],
+      "size": "4.0K",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "gmail-cleaner",
+      "description": "A web application for auditing recent Gmail messages, aggregating email counts by sender address, cl...",
+      "open_issues": null,
+      "tests": "Dir: `test/`",
+      "service": "gmail-cleaner.service",
+      "service_active": true,
+      "visibility": "Service",
+      "url": "https://architools.drawingtable.net/gmail-cleaner/",
+      "locations": [
+        "/home/pi/WebApps/gmail-cleaner"
+      ],
+      "size": "155M",
+      "has_git": true,
+      "owner": "Personal",
+      "remote_url": "git@github.com-personal:Al4st41r/gmail-cleaner.git"
+    },
+    {
+      "name": "html",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "N/A",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/html"
+      ],
+      "size": "1.1G",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "IFC-Junctions",
+      "description": "Reads an IFC file in the browser and lists junctions between elements as **Element type / Element ty...",
+      "open_issues": null,
+      "tests": "`vitest run`",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/IFC-Junctions"
+      ],
+      "size": "178M",
+      "has_git": true,
+      "owner": "WTA (Work)",
+      "remote_url": "git@github.com-wta:alastairWTA/IFC-Junctions.git"
+    },
+    {
+      "name": "IFC-Junctions",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": "https://architools.drawingtable.net/IFC-Junctions/",
+      "locations": [
+        "/var/www/html/IFC-Junctions"
+      ],
+      "size": "5.3M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "ifc-viewer",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": "https://architools.drawingtable.net/ifc-viewer/",
+      "locations": [
+        "/var/www/html/ifc-viewer"
+      ],
+      "size": "4.0K",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "ifc-viewer-prototype",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": "https://architools.drawingtable.net/ifc-viewer-prototype/",
+      "locations": [
+        "/var/www/html/ifc-viewer-prototype"
+      ],
+      "size": "67M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "ifc2Cobie",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "N/A",
+      "url": "https://architools.drawingtable.net/ifc2Cobie/",
+      "locations": [
+        "/home/pi/WebApps/ifc2Cobie"
+      ],
+      "size": "441M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "ifcapp",
+      "description": "A 3D building model viewer built with ThatOpen Components (formerly IFC.js).",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/ifcapp"
+      ],
+      "size": "164M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "ifcapp",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": "https://architools.drawingtable.net/ifcapp/",
+      "locations": [
+        "/var/www/html/ifcapp"
+      ],
+      "size": "5.3M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "ifctest",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/ifctest"
+      ],
+      "size": "138M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "ifctest",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": "https://architools.drawingtable.net/ifctest/",
+      "locations": [
+        "/var/www/html/ifctest"
+      ],
+      "size": "5.3M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "insights",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": "insights.service",
+      "service_active": true,
+      "visibility": "Service",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/insights"
+      ],
+      "size": "6.9M",
+      "has_git": true,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "insights",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": "https://architools.drawingtable.net/insights/",
+      "locations": [
+        "/var/www/html/insights"
+      ],
+      "size": "200K",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "inspector_test",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": "https://architools.drawingtable.net/inspector_test/",
+      "locations": [
+        "/var/www/html/inspector_test"
+      ],
+      "size": "4.0K",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "inventory",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": "https://architools.drawingtable.net/inventory/",
+      "locations": [
+        "/home/pi/WebApps/inventory",
+        "/var/www/html/inventory"
+      ],
+      "size": "1.1M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "jobrunner",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Hidden",
+      "url": "https://architools.drawingtable.net/jobrunner/",
+      "locations": [
+        "/var/www/html/jobrunner"
+      ],
+      "size": "32K",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "LocationValidator",
+      "description": "'m'",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/LocationValidator"
+      ],
+      "size": "214M",
+      "has_git": true,
+      "owner": "WTA (Work)",
+      "remote_url": "git@github.com-wta:Waugh-Thistleton-Architects/LocationValidator.git"
+    },
+    {
+      "name": "LocationValidator",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": "https://architools.drawingtable.net/LocationValidator/",
+      "locations": [
+        "/var/www/html/LocationValidator"
+      ],
+      "size": "7.7M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "makaton",
+      "description": "An interactive, responsive web application for translating everyday words and phrases (such as \"feel...",
+      "open_issues": 0,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": "https://architools.drawingtable.net/makaton/",
+      "locations": [
+        "/home/pi/WebApps/makaton",
+        "/var/www/html/makaton"
+      ],
+      "size": "2.9M",
+      "has_git": true,
+      "owner": "Personal",
+      "remote_url": "git@github.com-personal:Al4st41r/makaton.git"
+    },
+    {
+      "name": "MaterialCatalogue",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": "https://architools.drawingtable.net/MaterialCatalogue/",
+      "locations": [
+        "/home/pi/WebApps/MaterialCatalogue",
+        "/var/www/html/MaterialCatalogue"
+      ],
+      "size": "77M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "MaterialCatalogueCombined",
+      "description": "**URL:** https://architools.drawingtable.net/MaterialCatalogueCombined/",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": "https://architools.drawingtable.net/MaterialCatalogueCombined/",
+      "locations": [
+        "/home/pi/WebApps/MaterialCatalogueCombined",
+        "/var/www/html/MaterialCatalogueCombined"
+      ],
+      "size": "5.8M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "MaterialCatalogueHL",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": "https://architools.drawingtable.net/MaterialCatalogueHL/",
+      "locations": [
+        "/home/pi/WebApps/MaterialCatalogueHL",
+        "/var/www/html/MaterialCatalogueHL"
+      ],
+      "size": "128M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "mgkform",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": "mgkform.service",
+      "service_active": true,
+      "visibility": "Service",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/mgkform"
+      ],
+      "size": "182M",
+      "has_git": true,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "NinSteam",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": "ninsteam.service",
+      "service_active": true,
+      "visibility": "Service",
+      "url": "https://architools.drawingtable.net/ninsteam/",
+      "locations": [
+        "/home/pi/WebApps/NinSteam"
+      ],
+      "size": "26M",
+      "has_git": true,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "oebf",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": "https://architools.drawingtable.net/oebf/",
+      "locations": [
+        "/var/www/html/oebf"
+      ],
+      "size": "64K",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "OpenEditableBimFormat",
+      "description": "An open, plain-text BIM bundle format designed for direct editing by LLMs and agentic coding tools.",
+      "open_issues": 8,
+      "tests": "Dir: `spec/`",
+      "service": null,
+      "service_active": false,
+      "visibility": "N/A",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/OpenEditableBimFormat"
+      ],
+      "size": "610M",
+      "has_git": true,
+      "owner": "Personal",
+      "remote_url": "git@github.com-personal:Al4st41r/OpenEditableBimFormat.git"
+    },
+    {
+      "name": "OpenPencilCad",
+      "description": "Open-source design editor. Opens `.fig` and `.pen` design files, includes built-in AI, and ships as ...",
+      "open_issues": 156,
+      "tests": "`playwright test --project=openpencil`, Dir: `tests/`",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/OpenPencilCad"
+      ],
+      "size": "1.1G",
+      "has_git": true,
+      "owner": "Other",
+      "remote_url": "https://github.com/open-pencil/open-pencil.git"
+    },
+    {
+      "name": "OpenPencilCad",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": "https://architools.drawingtable.net/OpenPencilCad/",
+      "locations": [
+        "/var/www/html/OpenPencilCad"
+      ],
+      "size": "25M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "pass-secret-service",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "N/A",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/pass-secret-service"
+      ],
+      "size": "21M",
+      "has_git": true,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "Pdf2Markdown",
+      "description": "Pdf2Markdown is a utility to convert various file formats (PDF, DOCX, XLSX, PPTX, HTML, etc.) into M...",
+      "open_issues": null,
+      "tests": "Dir: `test/`",
+      "service": null,
+      "service_active": false,
+      "visibility": "N/A",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/Tools/Pdf2Markdown"
+      ],
+      "size": "410M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "plans",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": "https://architools.drawingtable.net/plans/",
+      "locations": [
+        "/var/www/html/plans"
+      ],
+      "size": "92K",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "pricetracker",
+      "description": "A Flask web application that monitors product prices from online stores and alerts users when prices...",
+      "open_issues": 11,
+      "tests": "Dir: `tests/`",
+      "service": "pricetracker.service",
+      "service_active": true,
+      "visibility": "Visible",
+      "url": "https://architools.drawingtable.net/pricetracker/",
+      "locations": [
+        "/home/pi/WebApps/pricetracker"
+      ],
+      "size": "296M",
+      "has_git": true,
+      "owner": "Personal",
+      "remote_url": "git@github.com-personal:Al4st41r/pricetracker.git"
+    },
+    {
+      "name": "pricetracker",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Visible",
+      "url": "https://architools.drawingtable.net/pricetracker/",
+      "locations": [
+        "/var/www/html/pricetracker"
+      ],
+      "size": "4.0K",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "Punctuation",
+      "description": "A punctuation game for adults, teaching British-English punctuation the Guardian/Observer style guid...",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": "https://architools.drawingtable.net/punctuation/",
+      "locations": [
+        "/home/pi/WebApps/Punctuation",
+        "/var/www/html/punctuation"
+      ],
+      "size": "684K",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "rhythm-master",
+      "description": "A web-based ear training application for developing rhythmic perception and drum pattern recognition...",
+      "open_issues": 1,
+      "tests": "Dir: `tests/`",
+      "service": null,
+      "service_active": false,
+      "visibility": "Visible",
+      "url": "https://architools.drawingtable.net/rhythm-master/",
+      "locations": [
+        "/home/pi/WebApps/rhythm-master",
+        "/var/www/html/rhythm-master"
+      ],
+      "size": "1.2M",
+      "has_git": true,
+      "owner": "Personal",
+      "remote_url": "git@github.com-personal:Al4st41r/rhythm-master.git"
+    },
+    {
+      "name": "roastmaster",
+      "description": "A smart cooking companion designed to help you plan, time, and cook the perfect Sunday Roast. RoastM...",
+      "open_issues": 0,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "N/A",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/roastmaster"
+      ],
+      "size": "140M",
+      "has_git": true,
+      "owner": "Personal",
+      "remote_url": "git@github.com-personal:Al4st41r/RoastMaster.git"
+    },
+    {
+      "name": "RoastMaster",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Visible",
+      "url": "https://architools.drawingtable.net/RoastMaster/",
+      "locations": [
+        "/var/www/html/RoastMaster"
+      ],
+      "size": "268K",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "rustycad",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "N/A",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/rustycad"
+      ],
+      "size": "492K",
+      "has_git": true,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "SimpleCarbon",
+      "description": "Inspired by the FCBS carbon tool.",
+      "open_issues": 6,
+      "tests": "`bun test tests/calculations.test.js`, Dir: `tests/`",
+      "service": "simplecarbon.service",
+      "service_active": true,
+      "visibility": "Service",
+      "url": "https://architools.drawingtable.net/simplecarbon/",
+      "locations": [
+        "/home/pi/WebApps/SimpleCarbon"
+      ],
+      "size": "38M",
+      "has_git": true,
+      "owner": "Personal",
+      "remote_url": "git@github.com-personal:Al4st41r/simplecarbon.git"
+    },
+    {
+      "name": "SindreKristian",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": "https://architools.drawingtable.net/SindreKristian/",
+      "locations": [
+        "/var/www/html/SindreKristian"
+      ],
+      "size": "44K",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "SiteContext",
+      "description": "To install dependencies:",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "N/A",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/SiteContext"
+      ],
+      "size": "255M",
+      "has_git": true,
+      "owner": "WTA (Work)",
+      "remote_url": "git@github.com-wta:alastairWTA/SiteContext.git"
+    },
+    {
+      "name": "speakit",
+      "description": "Speak It is a client-side web application designed for iPad and iPhone (iOS 26 and contemporary WebK...",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": "https://architools.drawingtable.net/speakit/",
+      "locations": [
+        "/home/pi/WebApps/speakit",
+        "/var/www/html/speakit"
+      ],
+      "size": "2.9M",
+      "has_git": true,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "SPtest",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "N/A",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/SPtest"
+      ],
+      "size": "20K",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "Styles",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Hidden",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/Styles"
+      ],
+      "size": "60K",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "Styles",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Hidden",
+      "url": "https://architools.drawingtable.net/Styles/",
+      "locations": [
+        "/var/www/html/Styles"
+      ],
+      "size": "2.4M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "taxcalc",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Visible",
+      "url": "https://architools.drawingtable.net/taxcalc/",
+      "locations": [
+        "/var/www/html/taxcalc"
+      ],
+      "size": "88K",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "tokenomics",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": "https://architools.drawingtable.net/tokenomics/",
+      "locations": [
+        "/var/www/html/tokenomics"
+      ],
+      "size": "2.3M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "Tools",
+      "description": "Tools I use to assist me in my workflows. These are not professional level tools and no liability is...",
+      "open_issues": 0,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "N/A",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/Tools"
+      ],
+      "size": "521M",
+      "has_git": true,
+      "owner": "Personal",
+      "remote_url": "git@github.com-personal:Al4st41r/Tools.git"
+    },
+    {
+      "name": "tools",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Visible",
+      "url": "https://architools.drawingtable.net/tools/",
+      "locations": [
+        "/var/www/html/tools"
+      ],
+      "size": "1004K",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "UKassetprices",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": "https://architools.drawingtable.net/UKassetprices/",
+      "locations": [
+        "/var/www/html/UKassetprices"
+      ],
+      "size": "116K",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "UWW",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Visible",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/UWW"
+      ],
+      "size": "12M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "UWW",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Visible",
+      "url": "https://architools.drawingtable.net/UWW/",
+      "locations": [
+        "/var/www/html/UWW"
+      ],
+      "size": "237M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "UWW-IFC",
+      "description": "",
+      "open_issues": null,
+      "tests": "Dir: `tests/`",
+      "service": null,
+      "service_active": false,
+      "visibility": "N/A",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/UWW-IFC"
+      ],
+      "size": "296M",
+      "has_git": true,
+      "owner": "WTA (Work)",
+      "remote_url": "git@github.com-wta:alastairWTA/UWW-IFC.git"
+    },
+    {
+      "name": "UWW-Tools",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": "https://architools.drawingtable.net/UWW-Tools/",
+      "locations": [
+        "/var/www/html/UWW-Tools"
+      ],
+      "size": "277M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "viewer1",
+      "description": "This repository demonstrates the **.ifcsvgbundle** file format, which combines IFC, SVG, and JSON to...",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Hidden",
+      "url": "https://architools.drawingtable.net/viewer1/",
+      "locations": [
+        "/var/www/html/viewer1"
+      ],
+      "size": "1.4M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "viewer2",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Hidden",
+      "url": "https://architools.drawingtable.net/viewer2/",
+      "locations": [
+        "/var/www/html/viewer2"
+      ],
+      "size": "61M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "WC-IFC",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "N/A",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/WC-IFC"
+      ],
+      "size": "167M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "WC-IFC-A",
+      "description": "Advanced IFC viewer with color-coded filtering based on demountability and structural relationships.",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "N/A",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/WC-IFC-A"
+      ],
+      "size": "227M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "WC-IFC-B",
+      "description": "Advanced IFC viewer with color-coded filtering based on demountability and structural relationships.",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "N/A",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/WC-IFC-B"
+      ],
+      "size": "236M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "weather-wear",
+      "description": "Vibe coded app to tell me what to wear depending on the weather.",
+      "open_issues": 0,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Visible",
+      "url": "https://architools.drawingtable.net/weather-wear/",
+      "locations": [
+        "/var/www/html/weather-wear"
+      ],
+      "size": "640K",
+      "has_git": true,
+      "owner": "Personal",
+      "remote_url": "git@github.com-personal:Al4st41r/weather_wear.git"
+    },
+    {
+      "name": "WebPagePodcasts",
+      "description": "A web application that lets you save articles to a reading list and listen to them with section-base...",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "N/A",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/WebPagePodcasts"
+      ],
+      "size": "28M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "Wiki",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": "elevation-planner-dxf.service",
+      "service_active": true,
+      "visibility": "Hidden",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/Wiki"
+      ],
+      "size": "762M",
+      "has_git": true,
+      "owner": "WTA (Work)",
+      "remote_url": "git@github.com-wta:alastairWTA/elevation-planner.git"
+    },
+    {
+      "name": "Wiki",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Hidden",
+      "url": "https://architools.drawingtable.net/Wiki/",
+      "locations": [
+        "/var/www/html/Wiki"
+      ],
+      "size": "63M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "woodawards",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "N/A",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/Tools/woodawards"
+      ],
+      "size": "5.4M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "workpi",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "N/A",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/workpi"
+      ],
+      "size": "72K",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "wta-node-studio",
+      "description": "<div align=\"center\">",
+      "open_issues": null,
+      "tests": "",
+      "service": "wta-node-studio.service",
+      "service_active": true,
+      "visibility": "Service",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/wta-node-studio"
+      ],
+      "size": "142M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "WTA_Detail",
+      "description": "<div align=\"center\">",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "N/A",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/WTA_Detail"
+      ],
+      "size": "608M",
+      "has_git": true,
+      "owner": "WTA (Work)",
+      "remote_url": "git@github.com-wta:JohanWijesinghe/WTA_Detail-AI.git"
+    },
+    {
+      "name": "xmasbook",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "N/A",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/xmasbook"
+      ],
+      "size": "4.0K",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "Xmaslist25",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "N/A",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/Xmaslist25"
+      ],
+      "size": "117M",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "xwiki",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": null,
+      "locations": [
+        "/home/pi/WebApps/xwiki"
+      ],
+      "size": "2.9G",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    },
+    {
+      "name": "xwiki",
+      "description": "",
+      "open_issues": null,
+      "tests": "",
+      "service": null,
+      "service_active": false,
+      "visibility": "Unlisted",
+      "url": "https://architools.drawingtable.net/xwiki/",
+      "locations": [
+        "/var/www/html/xwiki"
+      ],
+      "size": "1020K",
+      "has_git": false,
+      "owner": null,
+      "remote_url": null
+    }
+  ],
+  "unmatched_services": [
+    {
+      "name": "uww-l3-convertor.service",
+      "active": true,
+      "working_directory": "/var/www/html/UWW/L3OneClickConvertor"
+    },
+    {
+      "name": "materialcatalogue-api.service",
+      "active": true,
+      "working_directory": "/home/pi/WebApps/MaterialCatalogueCombined/api"
+    },
+    {
+      "name": "xwiki.service",
+      "active": true,
+      "working_directory": "/home/pi/WebApps/xwiki/standalone"
+    },
+    {
+      "name": "playbook-dev.service",
+      "active": true,
+      "working_directory": "/home/pi/WebApps/dev/Wiki/Playbook"
+    },
+    {
+      "name": "uww-generator.service",
+      "active": true,
+      "working_directory": "/var/www/html/UWW/UWW-Generator"
+    },
+    {
+      "name": "playbook.service",
+      "active": true,
+      "working_directory": "/home/pi/WebApps/Wiki/Playbook"
+    }
+  ]
+}
